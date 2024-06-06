@@ -13,8 +13,8 @@ function App() {
  
   return (
     <div>
-      {/* <Header name='Fatima' age={21}/>
-      <Header name='Fiza' age={21}/> */}
+      <Header name='Fatima' age={21}/>
+      <Header name='Fiza' age={21}/>
       <Header person={person}/>
 
 
